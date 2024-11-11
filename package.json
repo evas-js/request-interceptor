@@ -1,0 +1,26 @@
+{
+  "name": "@evas-js/request-interceptor",
+  "version": "1.0.0",
+  "description": "Перехватчик fetch и XMLHttpRequest запросов",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evas-js/request-interceptor.git"
+  },
+  "keywords": [
+    "request",
+    "interceptor",
+    "fetch",
+    "xhr",
+    "XMLHttpRequest"
+  ],
+  "author": "Egor Vasyakin <egor@evas-php.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/evas-js/request-interceptor/issues"
+  },
+  "homepage": "https://github.com/evas-js/request-interceptor#readme"
+}
