@@ -1,3 +1,10 @@
+/**
+ * Сообщения для логов.
+ * @package @evas-js/request-interceptor
+ * @author Egor Vasyakin <egor@evas-php.com>
+ * @license CC-BY-4.0
+ */
+
 import { Request } from "../Request"
 import { RequestInterceptor } from "../RequestInterceptor"
 
